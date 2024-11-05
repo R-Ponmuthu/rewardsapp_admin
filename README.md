@@ -1,4 +1,4 @@
-# Make Money Admin
+# Rewards App Admin
 
 An admin panel for make money android application.
 
@@ -25,7 +25,7 @@ Gems
 Installation
 ------------
 
-        git clone http://www.github.com/maanavshah/make-money-admin
+        git clone http://www.github.com/R-Ponmuthu/rewardsapp_admin
 
         cd make-money-admin
 
